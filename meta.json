@@ -84195,5 +84195,14 @@
         "version": "2.6.95",
         "tags": [],
         "author": "Michael Richins"
+    },
+	{
+        "id": "D6A55B50-BAE1-40D3-AB2A-4E99AE172291",
+        "name": "request-access",
+        "codepoint": "FA000",
+        "aliases": [],
+        "version": "1.0.0",
+        "tags": [],
+        "author": "Smint.io"
     }
 ]
